@@ -11,6 +11,7 @@
 		E92526B02B820F850028DDF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92526AF2B820F850028DDF5 /* ContentView.swift */; };
 		E92526B22B820F870028DDF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E92526B12B820F870028DDF5 /* Assets.xcassets */; };
 		E92526B52B820F870028DDF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E92526B42B820F870028DDF5 /* Preview Assets.xcassets */; };
+		E92526BC2B820FBC0028DDF5 /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92526BB2B820FBC0028DDF5 /* CollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E92526AF2B820F850028DDF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E92526B12B820F870028DDF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E92526B42B820F870028DDF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E92526BB2B820FBC0028DDF5 /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E92526AD2B820F850028DDF5 /* ComplexCollectionApp.swift */,
 				E92526AF2B820F850028DDF5 /* ContentView.swift */,
+				E92526BB2B820FBC0028DDF5 /* CollectionView.swift */,
 				E92526B12B820F870028DDF5 /* Assets.xcassets */,
 				E92526B32B820F870028DDF5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E92526BC2B820FBC0028DDF5 /* CollectionView.swift in Sources */,
 				E92526B02B820F850028DDF5 /* ContentView.swift in Sources */,
 				E92526AE2B820F850028DDF5 /* ComplexCollectionApp.swift in Sources */,
 			);
